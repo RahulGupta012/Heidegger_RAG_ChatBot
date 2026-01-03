@@ -79,5 +79,3 @@ final_chain = (
 
 
 
-res=final_chain.invoke("What is Heidegger's concept of 'Being-in-the-world'?")
-print(res)
