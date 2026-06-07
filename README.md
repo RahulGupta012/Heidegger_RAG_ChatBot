@@ -13,30 +13,6 @@ A Retrieval-Augmented Generation (RAG) application built to provide highly accur
 * Interactive chatbot-based graphical user interface
 * Low-hallucination response design through grounded retrieval
 
-## Tech Stack
-
-* Cohere LLM
-* Vector Embeddings
-* Semantic Search
-* RAG Pipeline
-* Python
-* Interactive GUI
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-Latest-green)
-![Cohere](https://img.shields.io/badge/Cohere-LLM-orange)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-red)
-![RAG](https://img.shields.io/badge/RAG-Architecture-purple)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
-![dotenv](https://img.shields.io/badge/dotenv-Environment%20Variables-brightgreen)
-
 
 ## 🚀 Built With
 
