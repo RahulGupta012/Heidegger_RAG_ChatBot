@@ -38,6 +38,22 @@ A Retrieval-Augmented Generation (RAG) application built to provide highly accur
 ![dotenv](https://img.shields.io/badge/dotenv-Environment%20Variables-brightgreen)
 
 
+## 🚀 Built With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python">
+  <img src="https://img.shields.io/badge/Cohere-LLM-orange">
+  <img src="https://img.shields.io/badge/LangChain-Orchestration-green">
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Database-red">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple">
+  <img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-yellow">
+  <img src="https://img.shields.io/badge/Pandas-Analytics-150458?logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Computing-013243?logo=numpy">
+  <img src="https://img.shields.io/badge/Tkinter-Desktop%20UI-blue">
+</p>
+
+
+
 ## Architecture
 
 Data Collection → Preprocessing → Chunking → Embedding Generation → Vector Storage → Semantic Retrieval → Cohere LLM → Response Generation
